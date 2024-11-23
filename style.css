@@ -6,3 +6,11 @@
   z-index: 100;
   display: block;
 }
+
+canvas {
+  display: block;
+}
+
+body {
+  margin: 0;
+}
